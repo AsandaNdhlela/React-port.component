@@ -1,0 +1,15 @@
+.container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  grid-template-rows: 10% 10% 10% 10%;
+  gap: 1;
+  background-color: #2196f3;
+  padding: 10px;
+}
+.card {
+  border: 1px solid rgba(0, 0, 0, 0.8);
+  padding: 180px;
+  margin: 20%;
+  font-size: 300px;
+  text-align: center;
+}
